@@ -1,5 +1,8 @@
 Rename Academic Papers
 ======================
+*IN DEVELOPMENT*
+*THINKING ABOUT THIS PROBLEM IN ANOTHER WAY*
+
 
 Because downloaded papers seldom have names that a human can identify.
 
