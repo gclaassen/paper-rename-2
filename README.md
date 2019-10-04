@@ -3,6 +3,8 @@ Rename Academic Papers
 *IN DEVELOPMENT*
 
 *THINKING ABOUT THIS PROBLEM IN ANOTHER WAY*
+- https://github.com/euske/pdfminer
+- https://github.com/mstamy2/PyPDF2
 
 
 Because downloaded papers seldom have names that a human can identify.
