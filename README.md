@@ -1,5 +1,5 @@
-Rename Academic Papers
-======================
+Rename Academic Papers and Books
+================================
 *IN DEVELOPMENT*
 
 *THINKING ABOUT THIS PROBLEM IN ANOTHER WAY*
