@@ -8,4 +8,4 @@ Rename Academic Papers and Books
 - create a ignore list with words such as journal, ieee, transaction, conference, vol, number, etc
 - multiple new lines skip
 - single new line use as space
-
+- https://realpython.com/pdf-python/
